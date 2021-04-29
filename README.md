@@ -1,21 +1,14 @@
-# Excel Homework: Kickstart My Chart
+# Kickstarter Project Success Analysis
 
-## Background
+## Background Information
 
 Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
 
-Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. For this week's homework, you will organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
-
-### Before You Begin
-
-1. Create a new space for this project called `excel-challenge` in either GitHub, DropBox, or Google Drive. **Do not add this homework to an existing folder or GitHub repo**.
-
+Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. For this project, I effectively organized and analyzed a database of 4,000 past projects in Microsoft Excel in order to uncover any hidden trends.
 
 ## Instructions
 
-![Kickstarter Table](Images/FullTable.png)
-
-Using the Excel table provided, modify and analyze the data of 4,000 past Kickstarter projects as you attempt to uncover some market trends.
+Using the Excel table provided (https://umn.bootcampcontent.com/University-of-Minnesota-Boot-Camp/uofm-stp-data-pt-12-2020-u-c/blob/master/02-Homework/01-Excel/Instructions/StarterBook.xlsx), I modified and analyzed the data of 4,000 past Kickstarter projects in an attempt to uncover some market trends.
 
 * Use conditional formatting to fill each cell in the `state` column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live.
 
@@ -124,18 +117,6 @@ For those looking for an additional challenge, you will evaluate the number of b
 ## Submission
 
 * To submit your homework, upload the solution and files to a GitHub repo, Dropbox, or Google Drive and submit the link to <https://bootcampspot.com/>.
-
-## Employer-Ready Criteria
-
-Students who are marked as employer-ready gain access to our employer referral program, additional workshops, and other resources. Work with your Career Director to become employer-ready. At a minimum, you must have:
-
-- A clear, concise, and compelling resume. Submit via your learning platform for review.
-- A polished GitHub profile:
-  - 3 - 6 pinned repositories ([instructions here](https://docs.github.com/en/enterprise/2.13/user/articles/pinning-items-to-your-profile))
-  - at least 5 commits per repository
-  - professional titles, i.e. not "Homework #1"
-  - thorough README.md files for each repository
-  - clean code
 
 - - -
 
