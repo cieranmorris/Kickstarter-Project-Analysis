@@ -6,11 +6,11 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. For this project, I effectively organized and analyzed a database of 4,000 past projects in Microsoft Excel in order to uncover any hidden trends.
 
-## Instructions
+## Worksheet Setup
 
 Using the Excel table provided (https://umn.bootcampcontent.com/University-of-Minnesota-Boot-Camp/uofm-stp-data-pt-12-2020-u-c/blob/master/02-Homework/01-Excel/Instructions/StarterBook.xlsx), I modified and analyzed the data of 4,000 past Kickstarter projects in an attempt to uncover some market trends.
 
-* Use conditional formatting to fill each cell in the `state` column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live.
+* I utilized conditional formatting to fill each cell in the `state` column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live.
 
   * Create a new column O called `Percent Funded` that uses a formula to uncover how much money a campaign made to reach its initial goal.
 
