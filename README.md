@@ -12,15 +12,15 @@ Using the Excel table provided (https://umn.bootcampcontent.com/University-of-Mi
 
 * I utilized conditional formatting to fill each cell in the `state` column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live.
 
-  * Create a new column O called `Percent Funded` that uses a formula to uncover how much money a campaign made to reach its initial goal.
+* I created a new column O called `Percent Funded` that uses a formula to uncover how much money a campaign made to reach its initial goal.
 
-* Use conditional formatting to fill each cell in the `Percent Funded` column using a three-color scale. The scale should start at 0 and be a dark shade of red, transitioning to green at 100, and blue at 200.
+* Within the new `Percent Funded` column, I used conditional formatting to fill each cell based on a three-color scale. The scale begins at 0 with a dark shade of red, which transitions to green at 100, and blue at 200.
 
-  * Create a new column P called `Average Donation` that uses a formula to uncover how much each backer for the project paid on average.
+  * Further, I added in a new column P called `Average Donation` that uses a formula to uncover how much each backer for the project paid on average.
 
-  * Create two new columns, one called `Category` at Q and another called `Sub-Category` at R, which use formulas to split the `Category and Sub-Category` column into two parts.
+  * I generated two new columns, one called `Category` at Q and another called `Sub-Category` at R, which use formulas to split the `Category and Sub-Category` column into two parts.
 
-  ![Category Stats](Images/CategoryStats.png)
+![landing](Images/landing_layout.png)
 
   * Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 
