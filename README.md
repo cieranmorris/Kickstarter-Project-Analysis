@@ -118,15 +118,16 @@ To provide a more concrete financial analysis of these Kickstarter campaigns, I 
 
   ![backers](Images/backers_stat_analysis.png)
 
-* Within my Excel worksheet, I described why the mean summarizes the data more effectively than the median. This is due to ...
 
-* Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+## Final Kickstarter Project Success Report
 
-* Create a report in Microsoft Word and answer the following questions.
+* Within my Excel worksheet, I described why the mean summarizes the data more effectively than the median in addition to understanding the varibility between success and unsuccessful campaigns.
 
-1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
-2. What are some limitations of this dataset?
-3. What are some other possible tables and/or graphs that we could create?
+* I generated a final analysis summary in Microsoft word which addressed overarching aspects of this project including:
+
+1. Three conclusions drawn based on the analysis and visualization of the datatset
+2. Limitations of this dataset
+3. Potential tables or figures for this analysis that can be prepared in the future
 
 - - -
 
