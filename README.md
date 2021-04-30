@@ -98,25 +98,25 @@ If one were to describe a successful crowdfunding campaign, most people would us
 
 To provide a more concrete financial analysis of these Kickstarter campaigns, I created my own summary statistics table to evaluate the number of backers of successful and unsuccessful campaigns.
 
-* Create a new worksheet in your workbook, and create a column each for the number of backers of successful campaigns and unsuccessful campaigns.
+* I generated a new worksheet in my Excel workbook and created a column each for the number of backers of successful campaigns and unsuccessful campaigns.
 
-  ![Images/backers01.png](Images/backers01.png)
+* For both successful and unsucessful campaigns, I used Excel filtering functions and statistical analysis formulas to perform the following:
 
-* Use Excel to evaluate the following for successful campaigns, and then for unsuccessful campaigns:
+  * The mean number of backers
 
-  * The mean number of backers.
+  * The median number of backers
 
-  * The median number of backers.
+  * The minimum number of backers
 
-  * The minimum number of backers.
+  * The maximum number of backers
 
-  * The maximum number of backers.
+  * The variance of the number of backers
 
-  * The variance of the number of backers.
+  * The standard deviation of the number of backers
 
-  * The standard deviation of the number of backers.
+  ![backers](Images/backers_stat_analysis.png)
 
-* Use your data to determine whether the mean or the median summarizes the data more meaningfully.
+* Within my Excel worksheet, I described why the mean summarizes the data more effectively than the median. This is due to ...
 
 * Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
